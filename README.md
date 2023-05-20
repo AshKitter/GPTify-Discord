@@ -1,7 +1,8 @@
 # GPTify-Discord
 Using a local self-hosted ChatGPT-like model, interact with a Discord server via a bot that interfaces with the local model.
 
-# DO NOT CREA
+# DO NOT CREATE AN ISSUE IF YOU FORGET TO PUT YOUR TOKEN IN OR HAVE SETUP GPT4All INCORRECTLY
+# I DO NOT PROVIDE SUPPORT FOR GPT4All
 The model in question is GPT4All. The model has been integrated into a discord.py Python script to read chat messages and reply to them.
 GPT4All is licensed under the MIT license, and I am not affiliated with GPT4All in any way whatsoever. 
 GPT4All is not included with GPTify-Discord, and must be setup on your own. I have used the python wrapper example as a sample for Google's Bard AI to generate the majority of the code.
